@@ -20,7 +20,7 @@ Flashcards have been an effective study tool for a long time. Thus, the creation
 ## Installation Instructions
 1. Clone my repository git@github.com:CasssieGithub/Cardify-Backend.git
 2. cd into CardifyBack2
-3. npm install
+3. pip install
 4. python manage.py runserver
 
 Link to live site: * enter live site once deployed *
